@@ -8,7 +8,7 @@ package gestorentradascine_hl;
  *
  * @author @diegoPepino
  */
-public class GestorEntradasCine_HL {
+public class Main_GestorEntradasCine {
 
     /**
      * @param args the command line arguments

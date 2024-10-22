@@ -14,7 +14,7 @@ public class GestorEntradasCine_HL {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       int prueba10;
+       int prueba11;
     }
     
 }
